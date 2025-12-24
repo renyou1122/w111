@@ -1,7 +1,7 @@
 # w111
 import pygame
 import random
-
+ 
 # 初始化
 pygame.init()
 
